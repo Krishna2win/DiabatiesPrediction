@@ -78,10 +78,8 @@ The best model is selected based on performance metrics such as Accuracy, Precis
 The final model achieved the following performance metrics:
 
 - **Logistic Regression**: Accuracy of 77.4%, Precision of 0.77, Recall of 0.70, F1-Score of 0.73.
-- **Decision Tree Classifier**: Accuracy of 75.1%, Precision of 0.76, Recall of 0.67, F1-Score of 0.71.
-- **Random Forest Classifier**: Accuracy of 78.7%, Precision of 0.79, Recall of 0.71, F1-Score of 0.75.
 
-The Random Forest Classifier was selected as the best model due to its superior performance across these metrics.
+The Logistic Regression was selected as the best model due to its superior performance across these metrics.
 
 ## Contributing
 
